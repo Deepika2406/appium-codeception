@@ -44,6 +44,12 @@ composer require me-io/appium-codeception
 
 and then run `composer install`. This will install codeception appium driver and all it's dependencies.
 
+## To Execute command as codecept 
+
+```sudo curl -LsS https://codeception.com/codecept.phar -o /usr/local/bin/codecept```
+and 
+```sudo chmod a+x /usr/local/bin/codecept```
+
 ## Tests
 
 Now lets run the following command at the root directory of your project:
