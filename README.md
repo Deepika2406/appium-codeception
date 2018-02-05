@@ -96,6 +96,11 @@ Now we need to generate actor class for the  `AndroidGuy` that we defined in `an
 ```bash
 codecept build
 ```
+### Install Appium Driver
+
+```bash
+npm install -g appium
+```
 
 ### Your First Android Test
 
